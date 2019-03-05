@@ -1,0 +1,215 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image:url(../assets/images/bcg/bcg3.jpg);
+	background-size: cover;
+}
+.container{
+	position: relative;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+	background-color: black;
+	opacity: .5;
+	border-radius: 5px;
+	height: 600px;
+	width: 350px;
+	color: white;
+	align-content: center;
+	left: 40%;
+	margin-top: 5%;
+
+}
+h4{
+	font-weight: bold;
+	font-size: 19px;
+	align-self: center;
+	text-decoration: underline;
+}
+.form{
+	padding: 10px;
+	margin: 10px;
+	align-content: center;
+}
+input,button
+{
+	border-radius: 5px;
+	height: 25px;
+	margin: 10px;
+	color: blue;
+
+}
+a{
+	text-decoration: underline;
+	color: yellow;
+	font-weight: bold;
+}
+
+
+
+.reset-box{
+	float: left;
+	position: relative;
+	left: 40%;
+	margin-top: 5%;
+	color: #fff;
+	width: 300px;
+	height: 200px;
+	align-content: center;
+	padding: 10px;
+	border-radius: 7px;
+	display: none;
+
+
+	
+}
+/*--------------------------SHOP----------*/
+body{
+	margin: 0;
+	padding: 0;
+}
+
+}
+.container-2
+{
+	position: relative;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+	background-color: black;
+	opacity: .5;
+	border-radius: 5px;
+	height: 600px;
+	width: 500px;
+	color: white;
+	margin-top: 5%;
+}
+.header{
+	background-color: black;
+	width: 100%;
+	height: 15%;
+}
+h3{
+	color: red;
+	font-family: algerian;
+	font-weight: bold;
+	text-decoration: underline;
+	align-self: center;
+	margin-left: 30%;
+	font-size: 25px;
+	padding: 5px;
+}
+.content{
+	float: left;
+	position: relative;
+	padding: 20px;
+	margin: 10px;
+	align-self: center;
+	border: 2px;
+	border-radius: 2px;
+	margin-left: 30%;
+
+}
+
+.nav,ul,li{
+	display: inline;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: arail;
+	padding: 20px;
+	color: white;
+
+
+}
+.nav,ul,li:hover{
+	transition: .5s;
+	color: red;
+}
+.nav .active{
+	text-decoration: underline;
+	color: blue;
+	text-decoration-color: red;
+	font-weight: 
+
+
+}
+.nav,a{
+	text-decoration: none;
+	color: white;
+}
+
+.footer{
+	float: left;
+	position: relative;
+	width: 98%;
+	background-color: #eee;
+	text-align: center;
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+	margin-left: 5px;
+	height: 15%;
+}
+/*---------------ladies shop-------------*/
+.box{
+	width: 100%;
+	height: 700px;
+}
+.nav,ul,li{
+	display: inline;
+	background: black;
+	margin-right: 20px;
+	padding: 5px;
+	border-radius: 5px;	
+}
+.nav, ul li:hover{
+	border: 2px solid lime;
+	background:yellow;
+	transition: .5s;
+}
+.nav .active{
+
+	background-color: blue;
+
+}
+.nav,a{
+	text-decoration: none;
+	color: white;
+}
+.header,h3{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+	color: black;
+
+}
+.content-item .item{
+	float: left;
+	margin: 5px;
+	height: 230px;
+	width: 200px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background: red;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+.content-item .item img{
+	width: 200px;
+	border-radius: 5px;
+	height: 200px;
+
+}
+.content-item .item div{
+	color: white;
+	font-weight: bold;
+}
+
+.footer{
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+
+}	
